@@ -27,8 +27,9 @@
 	font-size: 40px;
 }
 .home{
+
 	z-index: -1;
-	position: absolute;
+	position: static;
 	height: 904px;
 	width: 1275px;
 	margin-left: 67px;
@@ -36,7 +37,8 @@
 	padding-right: 0;
 	background-color: #C3895B;
 }
-.container{
+.container1{
+	padding-left: 32px;
 }
 .home-content{
 	z-index: 1;
